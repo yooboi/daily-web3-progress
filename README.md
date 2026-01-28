@@ -11,4 +11,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Practiced using GitHub commits for daily progress
 - Maintained consistency in learning
 
+## Day 3 Progress
+- Reviewed basic Web3 concepts
+- Explored Solidity basics and examples
+- Continued maintaining daily GitHub activity
 
