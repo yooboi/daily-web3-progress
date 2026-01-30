@@ -20,3 +20,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Learned about GitHub public vs private commits
 - Improved consistency by making daily updates
 - Reviewed previous Web3 notes and progress
+
+## Day 5 Progress
+- Learned about basic blockchain concepts
+- Continued tracking daily Web3 learning progress
+- Maintained consistency with GitHub commits
