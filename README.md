@@ -25,3 +25,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Learned about basic blockchain concepts
 - Continued tracking daily Web3 learning progress
 - Maintained consistency with GitHub commits
+
+## Day 6 Progress
+- Reviewed previous Web3 and Solidity notes
+- Made small README improvements
+- Continued maintaining daily GitHub activity
