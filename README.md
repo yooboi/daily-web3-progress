@@ -35,3 +35,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Reviewed previous Web3 and blockchain notes
 - Explored basic smart contract concepts
 - Maintained daily GitHub contribution consistency
+
+## Day 8 Progress
+- Reviewed previous daily Web3 progress
+- Learned about basic blockchain transactions
+- Continued maintaining consistent GitHub activity
