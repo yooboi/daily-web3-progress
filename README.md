@@ -45,3 +45,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Continued Solidity learning and revision
 - Reviewed basic smart contract structure
 - Maintained daily GitHub contribution consistency
+
+## Day 10 Progress
+- Revised previous Web3 and Solidity notes
+- Learned more about smart contract structure
+- Continued maintaining daily GitHub consistency
