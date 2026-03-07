@@ -99,3 +99,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Returned to daily Web3 learning after a short break
 - Reviewed previous Solidity and blockchain notes
 - Continued maintaining GitHub learning progress
+
+## Day 21 Progress
+- Reviewed blockchain and Web3 fundamentals
+- Continued reading about Solidity smart contracts
+- Resumed maintaining daily GitHub learning activity
