@@ -109,3 +109,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Reviewed Solidity data types and functions
 - Practiced understanding basic smart contract logic
 - Continued maintaining daily GitHub learning updates
+
+## Day 23 Progress
+- Continued reviewing Solidity basics
+- Explored simple smart contract examples
+- Maintained daily GitHub learning updates
