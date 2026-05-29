@@ -114,3 +114,8 @@ This repository tracks my daily learning and GitHub contributions in Web3.
 - Continued reviewing Solidity basics
 - Explored simple smart contract examples
 - Maintained daily GitHub learning updates
+
+## Day 24 Progress
+- Continued reviewing Solidity basics
+- Explored simple smart contract examples
+- Maintained daily GitHub learning updates
